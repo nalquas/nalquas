@@ -1,5 +1,5 @@
 ### Hello There 👋
-I'm Nalquas, a hobbyist programmer and retro games enthusiast. I'm currently studying computer science.
+I'm Nalquas, a hobbyist programmer and retro games enthusiast. I'm currently studying Computer Science.
 
 <!--
 **nalquas/nalquas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
