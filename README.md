@@ -1,7 +1,10 @@
 ### Hello There 👋
 I'm Nalquas, a Computer Science student from Germany. I like developing games in Godot and contributing to projects I find useful.
 
-You can find games I've worked on at https://nalquas.itch.io.
+You can find my personal games at https://nalquas.itch.io.
+
+I occasionally also develop games in a team during Game Jams; We're known as Penguin Psychiatry.
+You can find our games at https://penguin-psychiatry.itch.io/.
 
 <!--
 **nalquas/nalquas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
