@@ -3,7 +3,7 @@ I'm Nalquas, a Computer Science student from Germany. I like developing games in
 
 You can find my personal games at https://nalquas.itch.io.
 
-I occasionally also develop games in a team during Game Jams; We're known as Penguin Psychiatry.
+I also occasionally develop games in a team called Penguin Psychiatry.
 You can find our games at https://penguin-psychiatry.itch.io/.
 
 <!--
