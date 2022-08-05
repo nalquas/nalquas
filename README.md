@@ -1,5 +1,7 @@
 ### Hello There 👋
-I'm Nalquas, a hobbyist programmer and retro games enthusiast. I'm currently studying Computer Science.
+I'm Nalquas, a Computer Science student from Germany. I like developing games in Godot and contributing to projects I find useful.
+
+You can find games I've worked on at https://nalquas.itch.io.
 
 <!--
 **nalquas/nalquas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
