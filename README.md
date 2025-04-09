@@ -1,5 +1,5 @@
 ### Hello There 👋
-I'm Niklas, a Computer Science student from Germany. I like developing games in [Godot](https://godotengine.org/) and contributing to projects I find useful.
+I'm Niklas, a Computer Science student from Germany. I have developed games in the [Godot Engine](https://godotengine.org/) and contribute to projects I find useful.
 Before starting with Godot, I used to make games in [TIC-80](https://tic80.com/).
 
 You can find my personal games at https://nalquas.itch.io.
